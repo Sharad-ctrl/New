@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Sharad-ctrl/New/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Sharad-ctrl/New/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sharad-ctrl/New/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sharad-ctrl/New/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Sharad-ctrl/New/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sharad-ctrl/New/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -21,4 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Sharad-ctrl/New/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Sharad-ctrl/New/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sharad-ctrl/New/tree/master/0257-binary-tree-paths) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Sharad-ctrl/New/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Sharad-ctrl/New/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
