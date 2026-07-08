@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sharad-ctrl/New/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Sharad-ctrl/New/tree/master/0014-longest-common-prefix) |
 | [0238-product-of-array-except-self](https://github.com/Sharad-ctrl/New/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Sharad-ctrl/New/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sharad-ctrl/New/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Sharad-ctrl/New/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
