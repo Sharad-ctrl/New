@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sharad-ctrl/New/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/Sharad-ctrl/New/tree/master/0326-power-of-three) |
 ## Stack
 |  |
 | ------- |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sharad-ctrl/New/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Sharad-ctrl/New/tree/master/0724-find-pivot-index) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Sharad-ctrl/New/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
