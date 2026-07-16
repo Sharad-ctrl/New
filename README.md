@@ -62,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sharad-ctrl/New/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Sharad-ctrl/New/tree/master/0014-longest-common-prefix) |
 | [0238-product-of-array-except-self](https://github.com/Sharad-ctrl/New/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/Sharad-ctrl/New/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Sharad-ctrl/New/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sharad-ctrl/New/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/Sharad-ctrl/New/tree/master/0496-next-greater-element-i) |
 ## Trie
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Sharad-ctrl/New/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Sharad-ctrl/New/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sharad-ctrl/New/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/Sharad-ctrl/New/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sharad-ctrl/New/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Sharad-ctrl/New/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
