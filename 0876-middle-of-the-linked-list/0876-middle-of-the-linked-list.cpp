@@ -17,9 +17,9 @@ public:
             n++;
             temp = temp->next;
         }
-        int size = (n/2)+1;
+        int size = (n/2);
          n = 0;
-        while(n<size-1){
+        while(n<size){
             head = head->next;
             n++;
         }
