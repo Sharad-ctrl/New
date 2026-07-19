@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sharad-ctrl/New/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/Sharad-ctrl/New/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sharad-ctrl/New/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sharad-ctrl/New/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sharad-ctrl/New/tree/master/0701-insert-into-a-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Sharad-ctrl/New/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
