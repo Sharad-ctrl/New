@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sharad-ctrl/New/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Sharad-ctrl/New/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Sharad-ctrl/New/tree/master/0724-find-pivot-index) |
+| [1470-shuffle-the-array](https://github.com/Sharad-ctrl/New/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |
