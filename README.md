@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sharad-ctrl/New/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Sharad-ctrl/New/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Sharad-ctrl/New/tree/master/0724-find-pivot-index) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sharad-ctrl/New/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Sharad-ctrl/New/tree/master/1470-shuffle-the-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Sharad-ctrl/New/tree/master/2239-find-closest-number-to-zero) |
 ## Hash Table
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Sharad-ctrl/New/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sharad-ctrl/New/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sharad-ctrl/New/tree/master/0217-contains-duplicate) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sharad-ctrl/New/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sharad-ctrl/New/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sharad-ctrl/New/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
