@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sharad-ctrl/New/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Sharad-ctrl/New/tree/master/0014-longest-common-prefix) |
+| [0128-longest-consecutive-sequence](https://github.com/Sharad-ctrl/New/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sharad-ctrl/New/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sharad-ctrl/New/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sharad-ctrl/New/tree/master/0217-contains-duplicate) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sharad-ctrl/New/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Sharad-ctrl/New/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Sharad-ctrl/New/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Sharad-ctrl/New/tree/master/0496-next-greater-element-i) |
 ## Trie
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sharad-ctrl/New/tree/master/3345-smallest-divisible-digit-product-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sharad-ctrl/New/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
