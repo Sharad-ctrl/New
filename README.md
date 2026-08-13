@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sharad-ctrl/New/tree/master/0014-longest-common-prefix) |
 | [0257-binary-tree-paths](https://github.com/Sharad-ctrl/New/tree/master/0257-binary-tree-paths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sharad-ctrl/New/tree/master/0345-reverse-vowels-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sharad-ctrl/New/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/Sharad-ctrl/New/tree/master/0148-sort-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sharad-ctrl/New/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Sharad-ctrl/New/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
