@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sharad-ctrl/New/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Sharad-ctrl/New/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Sharad-ctrl/New/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sharad-ctrl/New/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sharad-ctrl/New/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Sharad-ctrl/New/tree/master/1470-shuffle-the-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Sharad-ctrl/New/tree/master/2239-find-closest-number-to-zero) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Sharad-ctrl/New/tree/master/0441-arranging-coins) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sharad-ctrl/New/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sharad-ctrl/New/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sharad-ctrl/New/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sharad-ctrl/New/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Two Pointers
 |  |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sharad-ctrl/New/tree/master/0128-longest-consecutive-sequence) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sharad-ctrl/New/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
