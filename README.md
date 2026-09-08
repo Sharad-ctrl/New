@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Sharad-ctrl/New/tree/master/0441-arranging-coins) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sharad-ctrl/New/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sharad-ctrl/New/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3870-count-commas-in-range](https://github.com/Sharad-ctrl/New/tree/master/3870-count-commas-in-range) |
 ## Number Theory
 |  |
 | ------- |
