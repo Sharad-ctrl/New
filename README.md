@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Sharad-ctrl/New/tree/master/1470-shuffle-the-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Sharad-ctrl/New/tree/master/2239-find-closest-number-to-zero) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sharad-ctrl/New/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2706-buy-two-chocolates](https://github.com/Sharad-ctrl/New/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sharad-ctrl/New/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sharad-ctrl/New/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sharad-ctrl/New/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2706-buy-two-chocolates](https://github.com/Sharad-ctrl/New/tree/master/2706-buy-two-chocolates) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -223,4 +225,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sharad-ctrl/New/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2706-buy-two-chocolates](https://github.com/Sharad-ctrl/New/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
