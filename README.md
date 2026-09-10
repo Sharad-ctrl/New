@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sharad-ctrl/New/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Sharad-ctrl/New/tree/master/1470-shuffle-the-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Sharad-ctrl/New/tree/master/2239-find-closest-number-to-zero) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Sharad-ctrl/New/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sharad-ctrl/New/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Sharad-ctrl/New/tree/master/0724-find-pivot-index) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Sharad-ctrl/New/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sharad-ctrl/New/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sharad-ctrl/New/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sharad-ctrl/New/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Sharad-ctrl/New/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sharad-ctrl/New/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sharad-ctrl/New/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sharad-ctrl/New/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Sharad-ctrl/New/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -215,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sharad-ctrl/New/tree/master/0852-peak-index-in-a-mountain-array) |
+## Greedy
+|  |
+| ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Sharad-ctrl/New/tree/master/2389-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
