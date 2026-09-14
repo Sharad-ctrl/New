@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Sharad-ctrl/New/tree/master/1470-shuffle-the-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Sharad-ctrl/New/tree/master/2239-find-closest-number-to-zero) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sharad-ctrl/New/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sharad-ctrl/New/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2706-buy-two-chocolates](https://github.com/Sharad-ctrl/New/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sharad-ctrl/New/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Sharad-ctrl/New/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Sharad-ctrl/New/tree/master/0496-next-greater-element-i) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sharad-ctrl/New/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Trie
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sharad-ctrl/New/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/Sharad-ctrl/New/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/Sharad-ctrl/New/tree/master/0441-arranging-coins) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sharad-ctrl/New/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sharad-ctrl/New/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sharad-ctrl/New/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Sharad-ctrl/New/tree/master/3870-count-commas-in-range) |
@@ -226,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sharad-ctrl/New/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2706-buy-two-chocolates](https://github.com/Sharad-ctrl/New/tree/master/2706-buy-two-chocolates) |
+## Counting
+|  |
+| ------- |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sharad-ctrl/New/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 <!---LeetCode Topics End-->
