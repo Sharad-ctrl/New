@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sharad-ctrl/New/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sharad-ctrl/New/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2706-buy-two-chocolates](https://github.com/Sharad-ctrl/New/tree/master/2706-buy-two-chocolates) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/Sharad-ctrl/New/tree/master/3683-earliest-time-to-finish-one-task) |
 ## Hash Table
 |  |
 | ------- |
