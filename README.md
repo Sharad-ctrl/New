@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sharad-ctrl/New/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sharad-ctrl/New/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sharad-ctrl/New/tree/master/0238-product-of-array-except-self) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sharad-ctrl/New/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sharad-ctrl/New/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Sharad-ctrl/New/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sharad-ctrl/New/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sharad-ctrl/New/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Sharad-ctrl/New/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Sharad-ctrl/New/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sharad-ctrl/New/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sharad-ctrl/New/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/Sharad-ctrl/New/tree/master/1207-unique-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sharad-ctrl/New/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
