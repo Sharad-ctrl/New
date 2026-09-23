@@ -1,0 +1,18 @@
+class Solution {
+public:
+    int firstMatchingIndex(string s) {
+        int n = s.size();
+        int i=0;
+        int j=n-1;
+        int ans = -1 ;
+        while(i<=j){
+            if(s[i] == s[j]){
+                ans = i;
+                break;
+            }
+            i++;
+            j--;
+        }
+        return ans;
+    }
+};
