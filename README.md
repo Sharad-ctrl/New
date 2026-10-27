@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sharad-ctrl/New/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sharad-ctrl/New/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sharad-ctrl/New/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Sharad-ctrl/New/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sharad-ctrl/New/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/Sharad-ctrl/New/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sharad-ctrl/New/tree/master/0876-middle-of-the-linked-list) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Sharad-ctrl/New/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sharad-ctrl/New/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/Sharad-ctrl/New/tree/master/0148-sort-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sharad-ctrl/New/tree/master/0345-reverse-vowels-of-a-string) |
