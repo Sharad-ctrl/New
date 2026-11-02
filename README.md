@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sharad-ctrl/New/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sharad-ctrl/New/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/Sharad-ctrl/New/tree/master/0441-arranging-coins) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sharad-ctrl/New/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sharad-ctrl/New/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Sharad-ctrl/New/tree/master/2651-calculate-delayed-arrival-time) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sharad-ctrl/New/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -276,4 +277,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sharad-ctrl/New/tree/master/0231-power-of-two) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sharad-ctrl/New/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sharad-ctrl/New/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
