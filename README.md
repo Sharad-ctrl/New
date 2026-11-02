@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sharad-ctrl/New/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sharad-ctrl/New/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sharad-ctrl/New/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/Sharad-ctrl/New/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sharad-ctrl/New/tree/master/0326-power-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Sharad-ctrl/New/tree/master/2094-finding-3-digit-even-numbers) |
 ## Stack
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sharad-ctrl/New/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Sharad-ctrl/New/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sharad-ctrl/New/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/Sharad-ctrl/New/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sharad-ctrl/New/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/Sharad-ctrl/New/tree/master/0441-arranging-coins) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sharad-ctrl/New/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sharad-ctrl/New/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Sharad-ctrl/New/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
