@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Sharad-ctrl/New/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sharad-ctrl/New/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Sharad-ctrl/New/tree/master/1207-unique-number-of-occurrences) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sharad-ctrl/New/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sharad-ctrl/New/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Sharad-ctrl/New/tree/master/1470-shuffle-the-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Sharad-ctrl/New/tree/master/2094-finding-3-digit-even-numbers) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sharad-ctrl/New/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sharad-ctrl/New/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sharad-ctrl/New/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sharad-ctrl/New/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sharad-ctrl/New/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Two Pointers
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Sharad-ctrl/New/tree/master/0148-sort-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sharad-ctrl/New/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Sharad-ctrl/New/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sharad-ctrl/New/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sharad-ctrl/New/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Sharad-ctrl/New/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Sharad-ctrl/New/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sharad-ctrl/New/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sharad-ctrl/New/tree/master/0217-contains-duplicate) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sharad-ctrl/New/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sharad-ctrl/New/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Sharad-ctrl/New/tree/master/2094-finding-3-digit-even-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sharad-ctrl/New/tree/master/2389-longest-subsequence-with-limited-sum) |
